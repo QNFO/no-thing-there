@@ -3,7 +3,7 @@ title: "No Thing There: Control, Readout, and Self-Referential Metrology in Engi
 author: "QNFO Research Collective"
 date: "2026-07-20"
 license: "QNFO Unified License Agreement (QNFO-ULA)"
-doi: "10.5281/zenodo.21451677"
+doi: "10.5281/zenodo.21451776"
 status: "published"
 series: "The Qubit Delusion — Phase III: Pedagogical Bridge"
 keywords:
