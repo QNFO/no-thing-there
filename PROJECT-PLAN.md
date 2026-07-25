@@ -2,7 +2,7 @@
 
 **Project:** Control, Readout, and Self-Referential Metrology in Engineered Quantum Systems
 **Slug:** `no-thing-there`
-**Status:** Phase 0 — Initiated 2026-07-20
+**Status:** Phase 6 — Complete (All 6 phases delivered, paper published at Zenodo DOI: 10.5281/zenodo.21451776)
 **Branch:** `feature/phase0-init`
 
 ---
